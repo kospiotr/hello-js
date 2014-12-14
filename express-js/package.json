@@ -1,0 +1,11 @@
+{
+  "name": "express-js",
+  "version": "0.0.0",
+  "description": "Sample expressjs application",
+  "main": "src/app.js",
+  "author": "Piotr Kosmowski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
+}
