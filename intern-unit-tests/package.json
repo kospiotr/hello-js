@@ -1,0 +1,10 @@
+{
+  "name": "intern-unit-tests",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "express": "^4.12.1",
+    "grunt": "^0.4.5",
+    "intern": "^2.2.2"
+  }
+}
