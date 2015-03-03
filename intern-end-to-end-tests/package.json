@@ -1,0 +1,12 @@
+{
+  "name": "intern-end-to-end-tests",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "express": "^4.12.2",
+    "grunt": "^0.4.5",
+    "intern": "^2.2.2",
+    "portfinder": "^0.4.0",
+    "q": "^1.2.0"
+  }
+}

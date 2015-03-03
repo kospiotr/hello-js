@@ -5,7 +5,7 @@ module.exports = function (grunt) {
             unit_testing: {
                 options: {
                     config: 'test/intern-config',
-                    suites: ['test/unit/appTest']
+                    suites: ['test/unit/appTest','test/unit/calculatorTest']
                 }
             }
         }

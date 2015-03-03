@@ -4,7 +4,7 @@ define(function (require) {
 
 
     suite({
-        'teting strings': function () {
+        'testing strings': function () {
             expect("Piotr").to.equal('Piotr');
         }
     });
