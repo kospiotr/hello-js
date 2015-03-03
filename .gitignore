@@ -9,3 +9,4 @@
 /intern/node_modules/
 /intern/nbproject/
 /intern-unit-tests/node_modules/
+/intern-end-to-end-tests/node_modules/
